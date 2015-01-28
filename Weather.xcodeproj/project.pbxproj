@@ -13,6 +13,7 @@
 		F69B22F21A7695BA00652B85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F69B22F11A7695BA00652B85 /* Images.xcassets */; };
 		F69B22F51A7695BA00652B85 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F69B22F31A7695BA00652B85 /* LaunchScreen.xib */; };
 		F69B23011A7695BB00652B85 /* WeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F69B23001A7695BB00652B85 /* WeatherTests.swift */; };
+		F69B230B1A76962D00652B85 /* temp1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F69B230A1A76962D00652B85 /* temp1.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		F69B22FA1A7695BB00652B85 /* WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F69B22FF1A7695BB00652B85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F69B23001A7695BB00652B85 /* WeatherTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherTests.swift; sourceTree = "<group>"; };
+		F69B230A1A76962D00652B85 /* temp1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = temp1.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				F69B22EA1A7695BA00652B85 /* AppDelegate.swift */,
 				F69B22EC1A7695BA00652B85 /* ViewController.swift */,
+				F69B230A1A76962D00652B85 /* temp1.jpg */,
 				F69B22EE1A7695BA00652B85 /* Main.storyboard */,
 				F69B22F11A7695BA00652B85 /* Images.xcassets */,
 				F69B22F31A7695BA00652B85 /* LaunchScreen.xib */,
@@ -195,6 +198,7 @@
 				F69B22F01A7695BA00652B85 /* Main.storyboard in Resources */,
 				F69B22F51A7695BA00652B85 /* LaunchScreen.xib in Resources */,
 				F69B22F21A7695BA00652B85 /* Images.xcassets in Resources */,
+				F69B230B1A76962D00652B85 /* temp1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
